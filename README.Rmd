@@ -3,10 +3,21 @@ title: "Model İstatistik"
 output: github_document
 ---
 
+[![](https://www.modelistatistik.com/wp-content/uploads/2017/03/logo-3-300x73.png)](https://www.modelistatistik.com/)
+
+https://www.modelistatistik.com/
+
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# education
+# Taslak Eğitim Dökümanları
 
-Files used in Education Meetings
+[R-Giris](R-Giris.html)
+
+[R-Arayuzler](R-Arayuzler.html)
+
+[R-Tipps](R-Tipps.html)
+
